@@ -1,0 +1,5 @@
+accessToken.txt
+*.bin
+TODOJan.md
+.vscode
+node_modules/

@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "archiver": "^7.0.1",
+    "body-parser": "^1.20.2",
+    "child_process": "^1.0.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.2",
+    "multer": "^1.4.5-lts.1",
+    "shell": "^0.9.6",
+    "shelljs": "^0.8.5"
+  },
+  "--es-module-specifier-resolution": "node",
+  "type": "module"
+}
